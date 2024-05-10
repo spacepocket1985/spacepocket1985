@@ -12,5 +12,5 @@ I'm looking for an internship and seeking real project experience.
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 
 ## Contact Me
-- GitHub: [https://github.com/spacepocket1985](link)
-- Instagram: [https://www.instagram.com/space85pocket](link)
+- GitHub: [GitHub Profile](https://github.com/spacepocket1985)
+- Instagram: [Instagram Profile](https://www.instagram.com/space85pocket)
