@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Aliaksandr Klintsevich 👋
 
-<!--
-**spacepocket1985/spacepocket1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm looking for an internship and seeking real project experience.
 
-Here are some ideas to get you started:
+## My Skills
+- ![HTML](https://img.shields.io/badge/-HTML-orange)
+- ![CSS](https://img.shields.io/badge/-CSS-blue)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-blueviolet)
+- ![React](https://img.shields.io/badge/-React-blue)
+- ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- GitHub: [https://github.com/spacepocket1985](link)
+- Instagram: [https://www.instagram.com/space85pocket](link)
