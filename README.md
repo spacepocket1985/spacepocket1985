@@ -26,9 +26,10 @@ I am passionate about web development and eager to apply my skills in a professi
 
 ## Some Projects 🎓
 
-| Project Title | Deploy Link   |
-| ------------- | :------------ |
-| Project 1     | [Project 1]() |
-| Project 2     | [Project 2]() |
-| Project 3     | [Project 3]() |
-| Project 4     | [Project 4]() |
+| Project Title | Deploy | Description |Stack|
+| ------------- | ------------ | ------------|------------ |
+| Project 1 | [Project 1]() | | |
+| Project 2 | [Project 2]() | | |
+| Project 3 | [Project 3]() | | |
+| Project 4 | [Project 4]() | | |
+| Virtual keyboard | [Virtual keyboard ](https://spacepocket1985.github.io/virtual-keyboard/) |Classic virtual keyboard for Windows |JavaScript, HTML, CSS |
