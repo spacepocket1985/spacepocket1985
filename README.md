@@ -23,3 +23,12 @@ I am passionate about web development and eager to apply my skills in a professi
 [<img src="https://code.visualstudio.com/assets/favicon.ico" alt="VS Code" width="40" height="40">](https://code.visualstudio.com/)
 [<img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40">](https://vitejs.dev/)
 [<img src="./img/ps.png" alt="Photoshop" width="40" height="40">](https://www.adobe.com/cis_ru/products/photoshop.html)
+
+## Some Projects 🎓
+
+| Project Title            | Deploy Link                       |
+|--------------------------|:----------------------------------|
+| Project 1                | [Project 1]()                     |
+| Project 2                | [Project 2]()                     |
+| Project 3                | [Project 3]()                     |
+| Project 4                | [Project 4]()                     |
