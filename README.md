@@ -6,8 +6,14 @@ I am passionate about web development and eager to apply my skills in a professi
 
 <a href="" target="_blank"><img align="left" alt="CV" width="40px" src="./img/cv.png"/></a>
 <a href="" target="_blank"><img align="left" alt="LINKEDIN" width="40px" src="./img/linkedin.png"/></a>
+<a href="https://github.com/spacepocket1985/" target="_blank">
+<img align="left" alt="GitHub" width="40px" src="./img/github.png"/>
+</a>
+<a href="https://github.com/spacepocket1985/" target="_blank">
+<img align="left" alt="Instagram" width="40px" src="./img/instagram.png"/>
+</a>
 
-## My Skills 🔪
+### My Skills 🔪
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -45,13 +51,3 @@ I am passionate about web development and eager to apply my skills in a professi
 <a href="https://www.adobe.com/cis_ru/products/photoshop.html" target="_blank">
   <img align="left" alt="Photoshop" width="40px" src="./img/ps.png"/>
 </a>
-
-## Contact Me 📞
-
-- Location: Grodno, Belarus
-- GitHub: <a href="https://github.com/spacepocket1985/" target="_blank">
-  <img align="left" alt="GitHub" width="40px" src="./img/github.png"/>
-  </a>
-- Instagram: <a href="https://github.com/spacepocket1985/" target="_blank">
-  <img align="left" alt="Instagram" width="40px" src="./img/instagram.png"/>
-  </a>
