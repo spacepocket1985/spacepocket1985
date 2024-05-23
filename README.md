@@ -2,9 +2,10 @@
 
 I am passionate about web development and eager to apply my skills in a professional setting. My goal is to gain hands-on experience in front-end development and contribute to meaningful projects.
 
-## About Me 🚀 
+## About Me 🚀
 
 ## My Skills 🔪
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 </a>
@@ -23,19 +24,27 @@ I am passionate about web development and eager to apply my skills in a professi
 <a href="https://redux.js.org/" target="_blank">
   <img align="left" alt="Redux" width="40px" src="./img/redux.png"/>
 </a>
+<a href="https://nodejs.org/" target="_blank">
+  <img align="left" alt="Node" width="40px" src="./img/nodejs.png"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img align="left" alt="Mongodb" width="40px" src="./img/mongo.png"/>
+</a>
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img align="left" alt="VC Code" width="40px" src="https://code.visualstudio.com/assets/favicon.ico"/>
 </a>
-
 <a href="https://vitejs.dev/" target="_blank">
   <img align="left" alt="Vite" width="40px" src="https://vitejs.dev/logo-with-shadow.png"/>
 </a>
+<a href="https://www.adobe.com/cis_ru/products/photoshop.html" target="_blank">
+  <img align="left" alt="Photoshop" width="40px" src="./img/ps.png"/>
+</a>
 
-## Contact Me
+## Contact Me 📞
 
+- Location: Grodno, Belarus
 - GitHub: [GitHub Profile](https://github.com/spacepocket1985)
 - Instagram: [Instagram Profile](https://www.instagram.com/space85pocket)
-
