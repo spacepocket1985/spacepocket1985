@@ -46,10 +46,12 @@ I am passionate about web development and eager to apply my skills in a professi
   <img align="left" alt="Photoshop" width="40px" src="./img/ps.png"/>
 </a>
 
-
-
 ## Contact Me 📞
 
 - Location: Grodno, Belarus
-- GitHub: [GitHub Profile](https://github.com/spacepocket1985)
-- Instagram: [Instagram Profile](https://www.instagram.com/space85pocket)
+- GitHub: <a href="https://github.com/spacepocket1985/" target="_blank">
+  <img align="left" alt="GitHub" width="40px" src="./img/github.png"/>
+  </a>
+- Instagram: <a href="https://github.com/spacepocket1985/" target="_blank">
+  <img align="left" alt="Instagram" width="40px" src="./img/instagram.png"/>
+  </a>
