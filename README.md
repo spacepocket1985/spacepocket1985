@@ -28,9 +28,7 @@ I am passionate about web development and eager to apply my skills in a professi
 
 | Project Title | Deploy | Description |Stack|
 | ------------- | ------------ | ------------|------------ |
-| Project 1 | [Project 1]() | | |
-| Project 2 | [Project 2]() | | |
-| Project 3 | [Project 3]() | | |
+| **Employment center**| [Employment center](https://github.com/spacepocket1985/employmentCenter) |Employment center, with the ability to add, delete and edit vacancies.  An application developed in TypeScript and consisting of a backend and a frontend. |**TypeScript, React, Redux, Material-UI, React Router,Node.js, Express ,Mongoose, SPA** |
 | **RS CSS** | [RS CSS](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/rs-css/) |Trainer for learning css selectors |**JavaScript, TypeScript, HTML, CSS, SPA, Webpack** |
 | **Virtual keyboard** | [Virtual keyboard](https://spacepocket1985.github.io/virtual-keyboard/) |Classic virtual keyboard for Windows |**JavaScript, HTML, CSS, SPA** |
 | **Shelter** | [Shelter](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/shelter/index.html) |Shelter is a pet shelter website that is adaptive and interactive. |**JavaScript, HTML, CSS** |
