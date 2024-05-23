@@ -4,8 +4,8 @@ I am passionate about web development and eager to apply my skills in a professi
 
 ## About Me 🚀
 
-- CV: <a href="" target="_blank"><img align="left" alt="CV" width="40px" src="./img/cv.png"/></a>
-- LINKEDIN: <a href="" target="_blank"><img align="left" alt="LINKEDIN" width="40px" src="./img/linkedin.png"/></a>
+<a href="" target="_blank"><img align="left" alt="CV" width="40px" src="./img/cv.png"/></a>
+<a href="" target="_blank"><img align="left" alt="LINKEDIN" width="40px" src="./img/linkedin.png"/></a>
 
 ## My Skills 🔪
 
@@ -45,6 +45,8 @@ I am passionate about web development and eager to apply my skills in a professi
 <a href="https://www.adobe.com/cis_ru/products/photoshop.html" target="_blank">
   <img align="left" alt="Photoshop" width="40px" src="./img/ps.png"/>
 </a>
+
+
 
 ## Contact Me 📞
 
