@@ -31,5 +31,6 @@ I am passionate about web development and eager to apply my skills in a professi
 | Project 1 | [Project 1]() | | |
 | Project 2 | [Project 2]() | | |
 | Project 3 | [Project 3]() | | |
-| Project 4 | [Project 4]() | | |
-| Virtual keyboard | [Virtual keyboard ](https://spacepocket1985.github.io/virtual-keyboard/) |Classic virtual keyboard for Windows |JavaScript, HTML, CSS |
+| **RS CSS** | [RS CSS](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/rs-css/) |Trainer for learning css selectors |**JavaScript, TypeScript, HTML, CSS, SPA, Webpack** |
+| **Virtual keyboard** | [Virtual keyboard](https://spacepocket1985.github.io/virtual-keyboard/) |Classic virtual keyboard for Windows |**JavaScript, HTML, CSS, SPA** |
+| **Shelter** | [Shelter](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/shelter/index.html) |Shelter is a pet shelter website that is adaptive and interactive. |**JavaScript, HTML, CSS** |
