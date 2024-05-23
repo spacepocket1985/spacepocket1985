@@ -4,6 +4,9 @@ I am passionate about web development and eager to apply my skills in a professi
 
 ## About Me 🚀
 
+- CV: <a href="" target="_blank"><img align="left" alt="CV" width="40px" src="./img/cv.png"/></a>
+- LINKEDIN: <a href="" target="_blank"><img align="left" alt="LINKEDIN" width="40px" src="./img/linkedin.png"/></a>
+
 ## My Skills 🔪
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -28,7 +31,7 @@ I am passionate about web development and eager to apply my skills in a professi
   <img align="left" alt="Node" width="40px" src="./img/nodejs.png"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img align="left" alt="Mongodb" width="40px" src="./img/mongo.png"/>
+  <img align="left" alt="Mongodb" width="40px" src="./img/mongodb.png"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
