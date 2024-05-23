@@ -11,8 +11,8 @@ I am passionate about web development and eager to apply my skills in a professi
 
 ## My Skills 🔪
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="./img/html.png" alt="HTML" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="./img/css.png" alt="CSS" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://github.com/remojansen/logo.ts/blob/master/ts.png?raw=true" alt="TypeScript" height="40">](https://www.typescriptlang.org/)
 [<img src="./img/react.png" alt="React" height="40">](https://react.dev/)
@@ -26,9 +26,9 @@ I am passionate about web development and eager to apply my skills in a professi
 
 ## Some Projects 🎓
 
-| Project Title            | Deploy Link                       |
-|--------------------------|:----------------------------------|
-| Project 1                | [Project 1]()                     |
-| Project 2                | [Project 2]()                     |
-| Project 3                | [Project 3]()                     |
-| Project 4                | [Project 4]()                     |
+| Project Title | Deploy Link   |
+| ------------- | :------------ |
+| Project 1     | [Project 1]() |
+| Project 2     | [Project 2]() |
+| Project 3     | [Project 3]() |
+| Project 4     | [Project 4]() |
