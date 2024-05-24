@@ -1,10 +1,12 @@
 # Hi, I'm Aliaksandr👋
 
-I am passionate about web development and eager to apply my skills in a professional setting. My goal is to gain hands-on experience in front-end development and contribute to meaningful projects.
+Interested in an internship or job as a junior front-end developer. I have knowledge of HTML, CSS, JavaScript, and experience working with frameworks. Purposeful, quick learner and ready to develop my skills in the IT field. Anyway time goes fast and
+
+> when you think it’s too late, the truth is, it’s still early.
 
 ## About Me 🚀
 
-[<img src="./img/cv.png" alt="CV" height="40">](#)
+[<img src="./img/cv.png" alt="CV" height="40">]((https://spacepocket1985.github.io/rsschool-cv/))
 [<img src="./img/linkedin.png" alt="Linkedin" height="40">](#)
 [<img src="./img/github.png" alt="Github" height="40">](https://github.com/spacepocket1985/)
 [<img src="./img/instagram.png" alt="Instagram" height="40">](https://github.com/spacepocket1985/)
