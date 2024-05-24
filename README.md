@@ -35,6 +35,7 @@ I am passionate about web development and eager to apply my skills in a professi
 
 ## Сompleted RS School courses 💻
 | React | JavaScript/Front-end  | JavaScript/Front-end preschool|
+| ------------- | -------------  | -------------|
 | [<img src="./img/rs-react.png" alt="RS-School" height="150">](https://rs.school/courses/reactjs) | [<img src="./img/rs-js.png" alt="RS-School" height="150">](https://rs.school/courses/javascript-ru) | [<img src="./img/rs-pre.png" alt="RS-School" height="150">](https://rs.school/courses/javascript-preschool-ru)|
 
 
