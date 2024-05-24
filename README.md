@@ -34,6 +34,6 @@ I am passionate about web development and eager to apply my skills in a professi
 | **Shelter** | [Shelter](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/shelter/index.html) |Shelter is a pet shelter website that is adaptive and interactive. |**JavaScript, HTML, CSS** |
 
 ## Сompleted RS School courses 💻
-[React Course <img src="./img/rs-react.png" alt="RS-School" height="90">](https://rs.school/courses/reactjs)
-[JavaScript/Front-end <img src="./img/rs-js.png" alt="RS-School" height="90">](https://rs.school/courses/javascript-ru)
-[JS/FE Pre-School <img src="./img/rs-pre.png" alt="RS-School" height="90">](https://rs.school/courses/javascript-preschool-ru)
+[<img src="./img/rs-react.png" alt="RS-School" height="90">](https://rs.school/courses/reactjs)
+[<img src="./img/rs-js.png" alt="RS-School" height="90">](https://rs.school/courses/javascript-ru)
+[<img src="./img/rs-pre.png" alt="RS-School" height="90">](https://rs.school/courses/javascript-preschool-ru)
