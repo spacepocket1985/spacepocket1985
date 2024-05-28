@@ -7,7 +7,7 @@ Interested in an internship or job as a junior front-end developer. I have knowl
 ## About Me 🚀
 
 [<img src="./img/cv.png" alt="CV" height="40">](https://spacepocket1985.github.io/rsschool-cv/)
-[<img src="./img/linkedin.png" alt="Linkedin" height="40">](#)
+[<img src="./img/linkedin.png" alt="Linkedin" height="40">](www.linkedin.com/in/aliaksandr-klintsevich-860b8a278)
 [<img src="./img/github.png" alt="Github" height="40">](https://github.com/spacepocket1985/)
 [<img src="./img/instagram.png" alt="Instagram" height="40">](https://instagram.com/space85pocket)
 [<img src="./img/mail.png" alt="mail" height="40">](mailto:space1985pocket@gmail.com)
