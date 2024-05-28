@@ -11,6 +11,7 @@ Interested in an internship or job as a junior front-end developer. I have knowl
 [<img src="./img/github.png" alt="Github" height="40">](https://github.com/spacepocket1985/)
 [<img src="./img/instagram.png" alt="Instagram" height="40">](https://instagram.com/space85pocket)
 [<img src="./img/mail.png" alt="mail" height="40">](mailto:space1985pocket@gmail.com)
+[<img src="./img/instagram.png" alt="codewars" height="40">](https://instagram.com/space85pocket)
 
 ## My Skills 🔪
 
@@ -35,10 +36,15 @@ Interested in an internship or job as a junior front-end developer. I have knowl
 | **RS CSS** | [RS CSS](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/rs-css/) |Trainer for learning css selectors |**JavaScript, TypeScript, HTML, CSS, SPA, Webpack** |
 | **Virtual keyboard** | [Virtual keyboard](https://spacepocket1985.github.io/virtual-keyboard/) |Classic virtual keyboard for Windows |**JavaScript, HTML, CSS, SPA** |
 | **Shelter** | [Shelter](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/shelter/index.html) |Shelter is a pet shelter website that is adaptive and interactive. |**JavaScript, HTML, CSS** |
+| **CSS Bayan** | [CSS Bayan](https://spacepocket1985.github.io/cssBayan/) |An accordion with HTML and CSS only. |**HTML, CSS** |
+
 
 ## Сompleted RS School courses 💻
 | React | JavaScript/Front-end  | JavaScript/Front-end preschool|
 | ------------- | -------------  | -------------|
 | [<img src="./img/rs-react.png" alt="RS-School" height="150">](https://rs.school/courses/reactjs) | [<img src="./img/rs-js.png" alt="RS-School" height="150">](https://rs.school/courses/javascript-ru) | [<img src="./img/rs-pre.png" alt="RS-School" height="150">](https://rs.school/courses/javascript-preschool-ru)|
+
+## СodeWars 🐯
+[<img src="https://www.codewars.com/users/rsschool_aa6b4f5fa6175c86/badges/large" alt="СodeWars ">]
 
 
