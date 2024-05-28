@@ -33,6 +33,7 @@ Interested in an internship or job as a junior front-end developer. I have knowl
 | Project Title | Deploy | Description |Stack|
 | ------------- | ------------ | ------------|------------ |
 | **Employment center**| [Employment center](https://github.com/spacepocket1985/employmentCenter) |Employment center, with the ability to add, delete and edit vacancies.  An application developed in TypeScript and consisting of a backend and a frontend. |**TypeScript, React, Redux, Material-UI, React Router,Node.js, Express ,Mongoose, SPA** |
+| **Food order**| [Food order](https://food9999order.netlify.app/) |Small app for ordering food. |**TypeScript, React, Vite, Eslint SPA** |
 | **RS CSS** | [RS CSS](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/rs-css/) |Trainer for learning css selectors |**JavaScript, TypeScript, HTML, CSS, SPA, Webpack** |
 | **Virtual keyboard** | [Virtual keyboard](https://spacepocket1985.github.io/virtual-keyboard/) |Classic virtual keyboard for Windows |**JavaScript, HTML, CSS, SPA** |
 | **Shelter** | [Shelter](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/shelter/index.html) |Shelter is a pet shelter website that is adaptive and interactive. |**JavaScript, HTML, CSS** |
@@ -45,6 +46,6 @@ Interested in an internship or job as a junior front-end developer. I have knowl
 | [<img src="./img/rs-react.png" alt="RS-School" height="150">](https://rs.school/courses/reactjs) | [<img src="./img/rs-js.png" alt="RS-School" height="150">](https://rs.school/courses/javascript-ru) | [<img src="./img/rs-pre.png" alt="RS-School" height="150">](https://rs.school/courses/javascript-preschool-ru)|
 
 ## СodeWars 🐯
-[<img src="https://www.codewars.com/users/rsschool_aa6b4f5fa6175c86/badges/large" alt="СodeWars ">]
+[<img src="https://www.codewars.com/users/rsschool_aa6b4f5fa6175c86/badges/large" alt="СodeWars ">](https://www.codewars.com/users/rsschool_aa6b4f5fa6175c86)
 
 
