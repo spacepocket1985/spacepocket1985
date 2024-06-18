@@ -32,7 +32,7 @@ Interested in an internship or job as a junior front-end developer. I have knowl
 
 | Project Title | Deploy | Description |Stack|
 | ------------- | ------------ | ------------|------------ |
-| **Employment center**| [Employment center](https://github.com/spacepocket1985/employmentCenter) |Employment center, with the ability to add, delete and edit vacancies.  An application developed in TypeScript and consisting of a backend and a frontend. |**TypeScript, React, Redux, Material-UI, React Router,Node.js, Express ,Mongoose, SPA.** |
+| **Employment center**| [Employment center](https://employmentcenterfrontend.netlify.app/) |Employment center, with the ability to add, delete and edit vacancies.  An application developed in TypeScript and consisting of a backend and a frontend. |**TypeScript, React, Redux, Material-UI, React Router,Node.js, Express ,Mongoose, SPA.** |
 | **Food order**| [Food order](https://food9999order.netlify.app/) |Small app for ordering food. |**TypeScript, React, Vite, Eslint SPA** |
 | **RS CSS** | [RS CSS](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/rs-css/) |Trainer for learning css selectors. |**JavaScript, TypeScript, HTML, CSS, SPA, Webpack.** |
 | **Minesweeper** | [Minesweeper](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/minesweeper/) |A classic game — Minesweeper.|**JavaScript, HTML, CSS, SPA** |
