@@ -21,8 +21,6 @@ Interested in an internship or job as a junior front-end developer. I have knowl
 [<img src="https://github.com/remojansen/logo.ts/blob/master/ts.png?raw=true" alt="TypeScript" height="40">](https://www.typescriptlang.org/)
 [<img src="./img/react.png" alt="React" height="40">](https://react.dev/)
 [<img src="./img/redux.png" alt="Redux" height="40">](https://redux.js.org/)
-[<img src="./img/nodejs.png" alt="Node.js" height="40">](https://nodejs.org/)
-[<img src="./img/mongodb.png" alt="MongoDB" height="40">](https://www.mongodb.com/)
 [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40">](https://git-scm.com/)
 [<img src="https://code.visualstudio.com/assets/favicon.ico" alt="VS Code" height="40">](https://code.visualstudio.com/)
 [<img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" height="40">](https://vitejs.dev/)
@@ -32,7 +30,6 @@ Interested in an internship or job as a junior front-end developer. I have knowl
 
 | Project Title | Deploy | Description |Stack|
 | ------------- | ------------ | ------------|------------ |
-| **Employment center**| [Employment center](https://employmentcenterfrontend.netlify.app/) |Employment center, with the ability to add, delete and edit vacancies.  An application developed in TypeScript and consisting of a backend and a frontend. |**TypeScript, React, Redux, Material-UI, React Router,Node.js, Express ,Mongoose, SPA.** |
 | **Food order**| [Food order](https://food9999order.netlify.app/) |Small app for ordering food. |**TypeScript, React, Vite, Eslint SPA** |
 | **RS CSS** | [RS CSS](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/rs-css/) |Trainer for learning css selectors. |**JavaScript, TypeScript, HTML, CSS, SPA, Webpack.** |
 | **Minesweeper** | [Minesweeper](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/minesweeper/) |A classic game — Minesweeper.|**JavaScript, HTML, CSS, SPA** |
