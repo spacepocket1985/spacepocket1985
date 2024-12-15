@@ -30,6 +30,7 @@ Interested in an internship or job as a junior front-end developer. I have knowl
 
 | Project Title | Deploy | Description |Stack|
 | ------------- | ------------ | ------------|------------ |
+| **YoutubeSpa**| [youtubeSpa](https://spa-youtube.netlify.app/) |This React application is designed for searching YouTube videos by keywords and saving search queries. Users can log in, perform searches, view results, and manage saved queries. |**React, TypeScript, Mui/material, RTK,  React Router, React-hook-form, Vite, YouTube Data API v3, Eslint, SPA** |
 | **Food order**| [Food order](https://food9999order.netlify.app/) |Small app for ordering food. |**TypeScript, React, Vite, Eslint SPA** |
 | **RS CSS** | [RS CSS](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/rs-css/) |Trainer for learning css selectors. |**JavaScript, TypeScript, HTML, CSS, SPA, Webpack.** |
 | **Minesweeper** | [Minesweeper](https://rolling-scopes-school.github.io/spacepocket1985-JSFE2023Q1/minesweeper/) |A classic game — Minesweeper.|**JavaScript, HTML, CSS, SPA** |
