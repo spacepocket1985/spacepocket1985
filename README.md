@@ -3,15 +3,14 @@
 🎓 **Professional Experience**  
 Frontend Developer with 2 years of experience in creating engaging, responsive web applications.  
 Committed to high-quality solutions and efficient delivery.  
-
 🤝 **Collaboration**  
 Strong collaborative skills, working effectively with teams, stakeholders, and clients.  
-
 📚 **Continuous Learning**  
 Dedicated to continuous professional development, exploring the latest web technologies through courses, articles, and videos.  
 🌐 **Networking**  
 Actively network with fellow developers in forums and keep up with new documentation.
 
+and by the way
 > when you think it’s too late, the truth is, it’s still early.
 
 ## About Me 🚀
