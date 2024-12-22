@@ -1,6 +1,14 @@
 # Hi, I'm Aliaksandr👋
 
-Interested in an internship or job as a junior front-end developer. I have knowledge of HTML, CSS, JavaScript, and experience working with frameworks. Purposeful, quick learner and ready to develop my skills in the IT field. Anyway time goes fast and
+🎓 Professional Experience
+Frontend Developer with 2 years of experience in creating engaging, responsive web applications.
+Committed to high-quality solutions and efficient delivery.
+🤝 Collaboration
+Strong collaborative skills, working effectively with teams, stakeholders, and clients.
+📚 Continuous Learning
+Dedicated to continuous professional development, exploring the latest web technologies through courses, articles, and videos.
+🌐 Networking
+Actively network with fellow developers in forums and keep up with new documentation.
 
 > when you think it’s too late, the truth is, it’s still early.
 
