@@ -1,7 +1,7 @@
 # Hi, I'm Aliaksandr👋
 
 🎓 **Professional Experience**  
-I am a Frontend Developer with over a year of experience in developing engaging and responsive web applications, ensuring top-notch performance and compatibility. Currently, I am actively studying Node and Next.js.
+I am a Frontend Developer with over two years of experience in developing engaging and responsive web applications, ensuring top-notch performance and compatibility. Currently, I am actively studying Node.js and Next.js to enhance my skill set and improve my development capabilities.
 🤝 **Collaboration**  
 Strong collaborative skills, working effectively with teams, stakeholders, and clients.  
 📚 **Continuous Learning**  
